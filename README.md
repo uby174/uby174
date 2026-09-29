@@ -17,6 +17,10 @@ Building reliable systems with Kubernetes, CI/CD, TypeScript, and Docker.
 ![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -29,6 +33,18 @@ Containerized deployment of a Doctor Appointment System to **Azure Kubernetes Se
 Agent-first content operating system for rights-safe AI video generation. Monorepo with 35 durable worker functions, compliance engine (EU AI Act, C2PA, UWG), human approval gates, and $0-cost development mode.
 
 **Stack:** `TypeScript` `Next.js 15` `Inngest` `PostgreSQL` `Remotion` `Prisma` `Docker` `Vitest`
+
+> **Note:** This is a private repository. The case study documents architecture, engineering decisions, and technical depth without exposing source code.
+
+## 🏠 [ImmoSearch](https://github.com/uby174/immosearch)
+German rental search aggregator across 5 major portals (ImmoScout24, Kleinanzeigen, Immowelt, WG-Gesucht, ohne-makler). Android thin client + Cloudflare Worker backend + licence server. Reverse-engineered mobile APIs, server-rendered page parsing with no headless browser, stealth fallback for anti-bot walls, and a zero-dependency search that works without any API keys.
+
+**Stack:** `Kotlin` `TypeScript` `Vite` `Cloudflare Workers` `Android` `Firebase`
+
+### 🎨 [WaldCraft (WandKraft)](https://github.com/uby174/WaldCraft)
+Production AI design generation platform. 4K upscaling, logo workflows, Stripe checkout, Firebase auth, persistent job storage. Docker Compose deployment to Hetzner + Coolify + Cloudflare.
+
+**Stack:** `TypeScript` `Node.js` `Vite` `Docker` `Stripe` `Firebase` `SQLite` `Cloudflare`
 
 ### 🎥 [FTL Studio](https://github.com/uby174/ftl-studio)
 Open-source AI video generator with consistent characters. Compile one sentence into a directed multi-shot cinematic film. Veo 3.1 + Gemini + Claude pipeline.
